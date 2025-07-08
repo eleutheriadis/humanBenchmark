@@ -23,7 +23,9 @@ Each folder in the repository corresponds to a specific Human Benchmark challeng
 Most scripts use libraries such as:
 
 - `pyautogui`
-- `time`
+- 'mss'
+- 'pillow'
+- 'numpy
 - `keyboard`
 - `opencv-python`
 - `pytesseract` (for OCR-based automation)
