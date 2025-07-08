@@ -14,7 +14,14 @@ This repository is meant for **learning, fun, and exploring automation with Pyth
 
 # **🧠 Supported Benchmarks**
 
+# **🧠 Supported Benchmarks**
+
 Each folder in the repository corresponds to a specific Human Benchmark challenge, containing one main Python script to run the automation.
+
+**Note:**
+
+- The **chimp script** is not very reliable and does not consistently produce accurate results.
+- Scripts that require taking screenshots need you to manually enter the dimensions of your player/window inside the code for them to work correctly.
 
 ---
 
