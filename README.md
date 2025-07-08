@@ -14,8 +14,6 @@ This repository is meant for **learning, fun, and exploring automation with Pyth
 
 # **🧠 Supported Benchmarks**
 
-# **🧠 Supported Benchmarks**
-
 Each folder in the repository corresponds to a specific Human Benchmark challenge, containing one main Python script to run the automation.
 
 **Note:**
